@@ -23,7 +23,13 @@ h2 {
     color: white;
 }
 
-#description {
+h4 {
     font-size: 21px;
+    font-weight: 300;
     color: grey;
+}
+
+footer {
+    text-align: right;
+    color: gray;
 }
